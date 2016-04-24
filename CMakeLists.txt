@@ -48,6 +48,7 @@ add_message_files(
  FILES
  CoordinateMsgs.msg
  IntList.msg
+ FloatList.msg
 )
 
 ## Generate services in the 'srv' folder
