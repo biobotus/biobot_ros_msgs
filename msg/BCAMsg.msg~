@@ -1,0 +1,9 @@
+float32 perimeter_min
+float32 perimeter_max
+float32 excentricity_min
+float32 excentricity_max
+float32 area_min
+float32 area_max
+Float32MultiArray color
+int32 number_of_colony
+bool watershed

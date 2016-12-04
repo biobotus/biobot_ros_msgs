@@ -1,0 +1,2 @@
+set(biobot_ros_msgs_MESSAGE_FILES "/home/ubuntu/biobot_ros_jtk/src/biobot_ros_msgs/msg/CoordinateMsgs.msg;/home/ubuntu/biobot_ros_jtk/src/biobot_ros_msgs/msg/IntList.msg;/home/ubuntu/biobot_ros_jtk/src/biobot_ros_msgs/msg/FloatList.msg;/home/ubuntu/biobot_ros_jtk/src/biobot_ros_msgs/msg/HomingMsg.msg")
+set(biobot_ros_msgs_SERVICE_FILES "")

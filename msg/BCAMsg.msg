@@ -1,0 +1,12 @@
+float32 perimeter_min
+float32 perimeter_max
+float32 excentricity_min
+float32 excentricity_max
+float32 area_min
+float32 area_max
+float32[] color
+int32 number_of_colony
+bool picking
+string protocol
+int32 step
+int32 pick_number

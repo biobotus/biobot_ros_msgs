@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/biobot_ros_jtk/install
+
+Name: biobot_ros_msgs
+Description: Description of biobot_ros_msgs
+Version: 0.0.0
+Cflags: -I/home/ubuntu/biobot_ros_jtk/install/include
+Libs: -L/home/ubuntu/biobot_ros_jtk/install/lib 
+Requires: message_runtime
