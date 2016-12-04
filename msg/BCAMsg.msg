@@ -4,7 +4,7 @@ float32 excentricity_min
 float32 excentricity_max
 float32 area_min
 float32 area_max
-float32[] color
+string color
 int32 number_of_colony
 bool picking
 string protocol
